@@ -1,0 +1,23 @@
+# innorar carpetas
+# nombre de la carpeta
+
+node_modules
+
+# ignora archivos
+.package.json
+
+#ignorar sub carpetas
+
+nombrecarpeta/nombresubcarpeta
+
+#ignorar todos los archibos dentro de una carpeta
+
+boostrap/scss*.scss
+
+nombrecarpeta/archivo
+
+#ignorar todos los archivos con la misma extension
+
+*.txt
+*gif
+
